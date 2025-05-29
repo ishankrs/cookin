@@ -19,6 +19,6 @@ A smart and interactive React web app that helps users decide **what to cook for
 ## 📦 Installation
 
 ```bash
-git clone 
+git clone  https://github.com/ishankrs/cookin.git
 cd dinner-decision-helper
 npm install
